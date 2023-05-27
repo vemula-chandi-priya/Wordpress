@@ -28,6 +28,7 @@ Many AMIs are general-purpose AMIs for running many different applications, but 
 WordPress image is certified by Bitnami as secure, up-to-date, and packaged using industry best practices, and approved by Automattic, the experts behind WordPress, so choose WordPress Certified by Bitnami and Automattic after make search on AWS Marketplace AMIs in the AMI selection view.
 
 ![image](https://github.com/vemula-chandi-priya/Wordpress/assets/113158270/e9dca552-5ace-4ca2-97bd-8e627e82433c)
+
 e. You will find the first image, choose it and press on Select
 
 ![image](https://github.com/vemula-chandi-priya/Wordpress/assets/113158270/512d50da-ff8f-4c6c-86ef-b1e651b2135b)
@@ -83,6 +84,7 @@ a. Here we can increase the storage space for the Root volume and also can be ad
 Launch
 It is now time to launch your EC2 instance.
 a. Choose the Launch instance button to create your EC2 instance.
+
 ![image](https://github.com/vemula-chandi-priya/Wordpress/assets/113158270/16687ec8-a4a8-4038-9fd5-fd8587d9cef8)
 
 b. Wait for instance to launch.
@@ -94,6 +96,7 @@ c. You have successfully launched your EC2 instance. Click on Open address to vi
 ![image](https://github.com/vemula-chandi-priya/Wordpress/assets/113158270/38ccdfb6-5f10-4616-831a-3bdb1d1f5e9b)
 
 Deploying Wordpress
+
 ![image](https://github.com/vemula-chandi-priya/Wordpress/assets/113158270/cd3d8cf9-4e60-4c49-b6b6-70043b7f60f7)
 
 ![image](https://github.com/vemula-chandi-priya/Wordpress/assets/113158270/814d2dab-99d5-4b91-8bed-1b6d6a4659ff)
