@@ -1,7 +1,6 @@
 # Deploy WordPress on EC2 by WordPress AMI
 
 
-Wordpress
 WordPress is a highly popular content management system (CMS). It is most commonly used for blogs but can also be used for running e-commerce sites, message boards, company websites, Portfolio Websites and many other popular use cases. In this guide, you will learn how to set up a WordPress site to run a blog.
 
 AWS Services services that use in this project
